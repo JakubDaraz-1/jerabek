@@ -11,8 +11,6 @@ Cílem je umožnit uživatelům:
 
 Kompletní dokumentace a podrobná specifikace aplikace jsou dostupné v souboru:
 
-👉 **[DESCRIPTION.md](DESCRIPTION.md)**
-
 ## Funkce aplikace
 - Registrace a přihlášení uživatelů  
 - Role (Admin, Organizátor, Uživatelský účet)  
@@ -22,9 +20,9 @@ Kompletní dokumentace a podrobná specifikace aplikace jsou dostupné v souboru
 - Import kalendáře přes ICS  
 - Export do ICS
 
-## Technologie (navrženo)
-- Backend: Node.js (Express/NestJS) nebo Python (FastAPI/Django)
+## Technologie navržene
+- Backend: Python (FastAPI/Django)
 - Frontend: React / Next.js + FullCalendar
 - Databáze: PostgreSQL
 
-Více viz dokumentace.
+
