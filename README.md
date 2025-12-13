@@ -1,7 +1,7 @@
 # Komunitní kalendář 
 
 # 1. Úvod
-Community Calendar je webová aplikace, kde si uživatelé můžou sdílet, spravovat a kombinovat různé kalendáře s akcemi.  
+Komunitní kalendář je webová aplikace, kde si uživatelé můžou sdílet, spravovat a kombinovat různé kalendáře s akcemi.  
 Cílem je mít jeden hlavní komunitní kalendář a zároveň umožnit každému uživateli poskládat si svůj osobní kalendář z různých zdrojů (včetně ICS importů).
 
 
